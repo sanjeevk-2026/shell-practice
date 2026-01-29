@@ -1,8 +1,8 @@
 #!/bin/bash
 
-person1=Ram
-person2=Laxman
-echo "$person1:: Hello $person2, how are you?"
-echo "$person2:: Hi $person1, Iam fine what are you doing?"
-echo "$person1:: Doing fine. What are you learning $person2?"
-echo "$person2:: Iam learning Shell. What about you"
+PERSON1=Ram
+PERSON2=Laxman
+echo "$PERSON1:: Hello $PERSON2, how are you?"
+echo "$PERSON2:: Hi $PERSON1, Iam fine what are you doing?"
+echo "$PERSON1:: Doing fine. What are you learning $PERSON2?"
+echo "$PERSON2:: Iam learning Shell. What about you"
